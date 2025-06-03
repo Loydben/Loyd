@@ -1,6 +1,6 @@
 # Loyd                            
 
-# 👋 Hi, I'm Loydben
+# 👋 Hi, I'm Loyd
 
 🎓 Computer Science A.S. Student | 💻 Aspiring Cybersecurity Professional  
 🔐 Currently taking the **Google Cybersecurity Certificate** on Coursera  
